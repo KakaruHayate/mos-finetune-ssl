@@ -1,3 +1,8 @@
+
+小改了下训练，`fairseq`换成了`s3prl`对齐[SingMOS](https://github.com/South-Twilight/SingMOS/)
+
+多出来的依赖`pip install s3prl icecream schedulefree`
+
 # SSL-MOS: Baseline system of the first VoiceMOS Challenge
 
 Author: Erica Cooper (National Institute of Informatics) Email: ecooper@nii.ac.jp
